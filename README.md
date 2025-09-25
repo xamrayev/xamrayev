@@ -2,8 +2,7 @@
 
 ## Hey 👋, I'm xamrayev!
 
-<a href='https://www.linkedin.com/in/khamraevbek/'><img align='left' alt="linkedin" src="./assets/linkedin.svg
-" height='18px'/></a>
+<a href='https://www.linkedin.com/in/khamraevbek/'><img align='left' alt="linkedin" src="./assets/linkedin.svg" height='18px'/></a>
 <a href='https://t.me/seniorgopher/'><img align='left' alt="twitter" src="./assets/telegram.png" height='18px'/></a>
 
 <br/>
